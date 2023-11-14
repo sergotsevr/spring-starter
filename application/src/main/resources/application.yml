@@ -1,0 +1,3 @@
+starter:
+  enabled: true
+  message: hello starter
